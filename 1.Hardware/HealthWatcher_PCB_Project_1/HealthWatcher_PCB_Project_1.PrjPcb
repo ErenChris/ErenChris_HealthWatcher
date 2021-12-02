@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GQZIOUKY
 
 [Document3]
-DocumentPath=ul_STM32F411CEU6\AltiumDesigner\2021-10-31_07-40-01\STM32F411CEU6.PcbLib
+DocumentPath=STM32F411CEU6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IKWMQSVS
 
 [Document4]
-DocumentPath=ul_STM32F411CEU6\AltiumDesigner\2021-10-31_07-40-01\STM32F411CEU6.SchLib
+DocumentPath=STM32F411CEU6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KOPRMCAG
+DocumentUniqueId=IJLDMJTN
 
 [Configuration1]
 Name=Sources
